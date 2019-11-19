@@ -1,17 +1,17 @@
 {
   "eula": "",
-  "vendor": "SAP",
+  "vendor": "Test",
   "license": "",
-  "id": "com.sap.jasonwebpage",
-  "version": "0.2.0",
+  "id": "com.test.jasonwebpage",
+  "version": "0.5.0",
   "name": "JasonWebPage Widget",
   "newInstancePrefix": "JasonWebPage",
   "description": "A custom JasonWebPage widget",
   "webcomponents": [
     {
       "kind": "main",
-      "tag": "com-sap-jasonwebpage",
-      "url": "https://github.wdf.sap.corp/pages/I068020/orca-custom-widgets/jasonwebpage/main.js",
+      "tag": "com-test-jasonwebpage",
+      "url": "https://github.com/yizhenyang/yanfeng/blob/master/jasonwebpage/main.js",
       "integrity": "sha256-rRnis3yP3HUxQzcNPjx3w9p6Ha5X8BsyxuTDxI7OdVE=",
       "ignoreIntegrity": true
     }
