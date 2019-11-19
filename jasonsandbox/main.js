@@ -12,5 +12,5 @@
     }
   }
 
-  customElements.define('com-sap-jasonsandbox', JasonSandBox)
+  customElements.define('com-test-jasonsandbox', JasonSandBox)
 })()
