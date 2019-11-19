@@ -11,7 +11,7 @@
     {
       "kind": "main",
       "tag": "com-test-jasonsandbox",
-      "url": "https://github.com/yizhenyang/yanfeng/blob/master/jasonsandbox/main.js",
+      "url": "https://yizhenyang.github.io/yanfeng/jasonsandbox/main.js",
       "integrity": "sha256-rRnis3yP3HUxQzcNPjx3w9p6Ha5X8BsyxuTDxI7OdVE=",
       "ignoreIntegrity": true
     }
