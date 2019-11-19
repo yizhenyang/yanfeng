@@ -3,7 +3,7 @@
   "vendor": "Test",
   "license": "",
   "id": "com.test.jasonwebpage",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "name": "JasonWebPage Widget",
   "newInstancePrefix": "JasonWebPage",
   "description": "A custom JasonWebPage widget",
