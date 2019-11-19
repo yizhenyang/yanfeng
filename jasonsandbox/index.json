@@ -2,8 +2,8 @@
   "eula": "",
   "vendor": "Test",
   "license": "",
-  "id": "com.sap.jasonsandbox",
-  "version": "0.2.0",
+  "id": "com.test.jasonsandbox",
+  "version": "0.5.0",
   "name": "JasonSandBox Widget",
   "newInstancePrefix": "JasonSandBox",
   "description": "A custom JasonSandBox widget",
@@ -11,7 +11,7 @@
     {
       "kind": "main",
       "tag": "com-sap-jasonsandbox",
-      "url": "https://github.wdf.sap.corp/pages/I068020/orca-custom-widgets/jasonsandbox/main.js",
+      "url": "https://github.com/yizhenyang/yanfeng/blob/master/jasonsandbox/main.js",
       "integrity": "sha256-rRnis3yP3HUxQzcNPjx3w9p6Ha5X8BsyxuTDxI7OdVE=",
       "ignoreIntegrity": true
     }
