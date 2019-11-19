@@ -3,7 +3,7 @@
   "vendor": "Test",
   "license": "",
   "id": "com.test.jasonsandbox",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "name": "JasonSandBox Widget",
   "newInstancePrefix": "JasonSandBox",
   "description": "A custom JasonSandBox widget",
