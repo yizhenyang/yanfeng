@@ -33,5 +33,5 @@
     }
   }
 
-  customElements.define('com-sap-jasonwebpage', JasonWebPage)
+  customElements.define('com-test-jasonwebpage', JasonWebPage)
 })()
